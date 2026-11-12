@@ -1,0 +1,37 @@
+{
+  "retrieved": "2026-09-07T00:38:28.305Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "url": "https://www.bowleswyer.co.uk/",
+  "title": "Bowles & Wyer Expert, award winning garden designers & landscape architects",
+  "headings": [
+    "LOOK FORWARD",
+    "CONTACT"
+  ],
+  "links": [
+    {
+      "text": "Services",
+      "href": "https://www.bowleswyer.co.uk/services/"
+    },
+    {
+      "text": "Contact",
+      "href": "https://www.bowleswyer.co.uk/contact/"
+    },
+    {
+      "text": "Services",
+      "href": "https://www.bowleswyer.co.uk/services/"
+    },
+    {
+      "text": "Contact",
+      "href": "https://www.bowleswyer.co.uk/contact/"
+    },
+    {
+      "text": "VIEW OUR SERVICES",
+      "href": "https://www.bowleswyer.co.uk/services/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-07T01:44:44.188Z",
+  "url": "https://icy-lake-df32.uumit-200ut-agents.workers.dev/",
+  "email": "[REDACTED_EMAIL]",
+  "result": "PASS",
+  "results": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "status": 200,
+      "href": "mailto:[REDACTED_EMAIL]",
+      "image": "Hedley-desktop-preview.jpg"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "status": 200,
+      "href": "mailto:[REDACTED_EMAIL]",
+      "image": "Hedley-mobile-preview.jpg"
+    }
+  ]
+}

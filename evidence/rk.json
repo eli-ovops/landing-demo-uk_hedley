@@ -1,0 +1,15 @@
+{
+  "retrieved": "2026-09-07T00:38:22.971Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 202,
+  "error": null,
+  "url": "https://www.rklandscaping.co.uk/.well-known/sgcaptcha/?r=%2F&y=ipr:[REDACTED_HOST]:1788741500.543",
+  "title": "Robot Challenge Screen",
+  "headings": [
+    "rklandscaping.co.uk"
+  ],
+  "links": []
+}

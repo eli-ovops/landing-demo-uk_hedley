@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "zip": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/packages/Hedley_LOCAL_PREVIEW_PACKAGE_v1_20260907-093447.zip",
+  "sha256": "f3a10e82ba95d5bef9abc5e961b08d31ecda628cacf6dc711fb0c527a0c826ee",
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "images": true,
+      "overflow": false,
+      "styled": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "styled": true
+    }
+  ]
+}

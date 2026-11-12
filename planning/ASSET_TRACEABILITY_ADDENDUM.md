@@ -1,0 +1,4 @@
+# Asset traceability addendum
+All five generated images are now complete, selected, visually inspected and recorded in ASSET_INVENTORY.csv with retained PNG originals, JPEG render SHA-256, generation source, date, exact placement, prompt record and transformation history. No third-party reference image was supplied to imagegen. They illustrate service materials and atmosphere, never completed Hedley projects. Council image and host branding remain excluded. No people or personal likeness.
+
+Pre-code submission remains frozen; this additive register resolves missing completed-file traceability. Proposed image usage is unchanged. Current independent Reviewer assigned by PMO is Anscombe task 01a071f2-7e27-70a1-a5c1-990ff2edd340. Historical ID in original authority/pre-code reflects the prior research review; it is not the current independent visual Reviewer.

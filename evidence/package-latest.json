@@ -1,0 +1,47 @@
+{
+  "packageType": "LOCAL_PREVIEW_PACKAGE",
+  "status": "BYTE_AND_RESOURCE_CHECK_PASS",
+  "zip": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/packages/Hedley_LOCAL_PREVIEW_PACKAGE_v1_20260907-093447.zip",
+  "sha256": "f3a10e82ba95d5bef9abc5e961b08d31ecda628cacf6dc711fb0c527a0c826ee",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 7001,
+      "sha256": "d15c61fa387b451be63fd1e7202f2995fe27132c46db032b58756589c3118d13"
+    },
+    {
+      "path": "style.css",
+      "bytes": 15973,
+      "sha256": "39843986003d0c16e3eba098206336a35846b25a4e359c39f076b5fecc06624f"
+    },
+    {
+      "path": "assets/hero.jpg",
+      "bytes": 664134,
+      "sha256": "bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33"
+    },
+    {
+      "path": "assets/council-garden.jpg",
+      "bytes": 118293,
+      "sha256": "22daba4c6f3fb712a366629e07e0575398bb46339682874347121bba81cc547a"
+    },
+    {
+      "path": "assets/drive.jpg",
+      "bytes": 872301,
+      "sha256": "18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1"
+    },
+    {
+      "path": "assets/boundary.jpg",
+      "bytes": 803824,
+      "sha256": "793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd"
+    },
+    {
+      "path": "assets/closing.jpg",
+      "bytes": 684321,
+      "sha256": "55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9"
+    }
+  ],
+  "sourceInputHash": "0e2f21c610e28ce2feb9916c375d417c77e7d1f6c81c2b8ef9edc5c6975a85e6",
+  "contentLock": "All displayed HTML/CSS/images byte-identical; no visible changes",
+  "scope": "Local preview only; not Cloudflare upload certification or final source-transfer eligibility",
+  "extracted": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/packages/Hedley_LOCAL_PREVIEW_PACKAGE_v1_20260907-093447-verified"
+}

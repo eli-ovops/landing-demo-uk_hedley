@@ -1,0 +1,482 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.jpg",
+        "ok": true,
+        "width": 1392,
+        "height": 710
+      },
+      {
+        "src": "assets/council-garden.jpg",
+        "ok": true,
+        "width": 660,
+        "height": 312
+      },
+      {
+        "src": "assets/drive.jpg",
+        "ok": true,
+        "width": 268,
+        "height": 335
+      },
+      {
+        "src": "assets/boundary.jpg",
+        "ok": true,
+        "width": 268,
+        "height": 335
+      },
+      {
+        "src": "assets/closing.jpg",
+        "ok": true,
+        "width": 531,
+        "height": 610
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "Hedley\nLANDSCAPE GARDENER & BUILDER",
+        "href": "#hero"
+      },
+      {
+        "text": "Services",
+        "href": "#services"
+      },
+      {
+        "text": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "text": "Get in touch ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your project\n↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "Talk about your patio ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your driveway ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Plan your boundaries ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Ask about garden upkeep ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Read reviews on Derbyshire\nTrusted Trader ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "View local directory details ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#hero"
+      }
+    ],
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "bodyText": "Skip to content\nHedley\nLANDSCAPE GARDENER & BUILDER\nServices\nReviews\nGet in touch ↗\n\nCHESTERFIELD · LANDSCAPING\n\nMore life.\nOutdoors.\n\nPatios, driveways and garden boundaries.\nA new beginning for your outdoor space.\n\nDiscuss your project\n↗\nG Hedley Landscape Gardener and Builder\nExplore the services ↓\n\nFROM THE PATIO TO THE GARDEN GATE\n\nA place for\neveryday living.\n\nPatios to spend time on. Driveways to come home to.\nWalls and fencing to bring it all together.\n\n01 / PAVING\nPatios & paths\n\nMake room for life outside. Patio, path and block paving work for the spaces around your home.\n\nPATIO PAVING · GARDEN PATHS · BLOCK PAVING\n\nTalk about your patio ↗\n02 / ARRIVAL\nDriveways\n\nA considered approach to your home. Driveway work, including resin drives and paths.\n\nDRIVEWAYS · RESIN SURFACING\n\nDiscuss your driveway ↗\n03 / BOUNDARIES\nWalls & fencing\n\nGive your garden a clear edge. Dry stone walls and fencing for the boundaries around it.\n\nDRY STONE WALLS · FENCING\n\nPlan your boundaries ↗\n\nKeeping the garden in shape.\nHedge and lawn cutting, and tree work.\n\nAsk about garden upkeep ↗\n\nCUSTOMER EXPERIENCES\n\nThe details\npeople remember.\nRead reviews on Derbyshire\nTrusted Trader ↗\n\nPATIO REPLACEMENT\n\nCare beyond the paving.\n“All debris was removed and the area kept clean daily.”\n\nThe patio customer also highlighted clear updates as the work progressed.\n\n13 August 2026\n\nDRIVEWAY\n\nAttention to the finish.\n\nThe reviewer was pleased with the new drive’s appearance and the care taken over the details.\n\n6 July 2026\n\nGARDEN TRANSFORMATION\n\nIdeas listened to.\n\nThe customer valued an adaptable approach, with their ideas incorporated into the garden work.\n\n17 June 2026\n\nOne short quotation and two summaries from customer feedback on Derbyshire County Council’s Trusted Trader directory.\n\nBASED IN BOYTHORPE, CHESTERFIELD\n\nWhat have\nyou got in mind?\n\nStart with the part of your garden you’d like to change. Tell Hedley what you have in mind and your postcode.\n\n01\nYour project\n02\nYour postcode\nCALL HEDLEY\n07891 873820\n↗\nLANDLINE\n01246 230493\n↗\nEMAIL\[REDACTED_EMAIL]\n↗\nView local directory details ↗\nG Hedley Landscape Gardener and Builder\nIndependent concept preview\nBack to top ↑",
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.796875
+    },
+    "back": "#hero",
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.jpg",
+        "ok": true,
+        "width": 366,
+        "height": 620
+      },
+      {
+        "src": "assets/council-garden.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 161
+      },
+      {
+        "src": "assets/drive.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 206
+      },
+      {
+        "src": "assets/boundary.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 206
+      },
+      {
+        "src": "assets/closing.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 260
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "Hedley\nLANDSCAPE GARDENER & BUILDER",
+        "href": "#hero"
+      },
+      {
+        "text": "Services",
+        "href": "#services"
+      },
+      {
+        "text": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "text": "Get in touch",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your project\n↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "Talk about your patio ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your driveway ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Plan your boundaries ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Ask about garden upkeep ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Read reviews on Derbyshire\nTrusted Trader ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "View local directory details ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#hero"
+      }
+    ],
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "bodyText": "Skip to content\nHedley\nLANDSCAPE GARDENER & BUILDER\nServices\nGet in touch\n\nCHESTERFIELD · LANDSCAPING\n\nMore life.\nOutdoors.\n\nPatios, driveways and garden boundaries.\nA new beginning for your outdoor space.\n\nDiscuss your project\n↗\nG Hedley Landscape Gardener and Builder\nExplore the services ↓\n\nFROM THE PATIO TO THE GARDEN GATE\n\nA place for\neveryday living.\n\nPatios to spend time on. Driveways to come home to.Walls and fencing to bring it all together.\n\n01 / PAVING\nPatios & paths\n\nMake room for life outside. Patio, path and block paving work for the spaces around your home.\n\nPATIO PAVING · GARDEN PATHS · BLOCK PAVING\n\nTalk about your patio ↗\n02 / ARRIVAL\nDriveways\n\nA considered approach to your home. Driveway work, including resin drives and paths.\n\nDRIVEWAYS · RESIN SURFACING\n\nDiscuss your driveway ↗\n03 / BOUNDARIES\nWalls & fencing\n\nGive your garden a clear edge. Dry stone walls and fencing for the boundaries around it.\n\nDRY STONE WALLS · FENCING\n\nPlan your boundaries ↗\n\nKeeping the garden in shape.\nHedge and lawn cutting, and tree work.\n\nAsk about garden upkeep ↗\n\nCUSTOMER EXPERIENCES\n\nThe details\npeople remember.\nRead reviews on Derbyshire\nTrusted Trader ↗\n\nPATIO REPLACEMENT\n\nCare beyond the paving.\n“All debris was removed and the area kept clean daily.”\n\nThe patio customer also highlighted clear updates as the work progressed.\n\n13 August 2026\n\nDRIVEWAY\n\nAttention to the finish.\n\nThe reviewer was pleased with the new drive’s appearance and the care taken over the details.\n\n6 July 2026\n\nGARDEN TRANSFORMATION\n\nIdeas listened to.\n\nThe customer valued an adaptable approach, with their ideas incorporated into the garden work.\n\n17 June 2026\n\nOne short quotation and two summaries from customer feedback on Derbyshire County Council’s Trusted Trader directory.\n\nBASED IN BOYTHORPE, CHESTERFIELD\n\nWhat have\nyou got in mind?\n\nStart with the part of your garden you’d like to change. Tell Hedley what you have in mind and your postcode.\n\n01\nYour project\n02\nYour postcode\nCALL HEDLEY\n07891 873820\n↗\nLANDLINE\n01246 230493\n↗\nEMAIL\[REDACTED_EMAIL]\n↗\nView local directory details ↗\nG Hedley Landscape Gardener and Builder\nIndependent concept preview\nBack to top ↑",
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.578125
+    },
+    "back": "#hero",
+    "errors": []
+  },
+  {
+    "name": "mobile-dark",
+    "width": 390,
+    "height": 844,
+    "colorScheme": "dark",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.jpg",
+        "ok": true,
+        "width": 366,
+        "height": 620
+      },
+      {
+        "src": "assets/council-garden.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 161
+      },
+      {
+        "src": "assets/drive.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 206
+      },
+      {
+        "src": "assets/boundary.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 206
+      },
+      {
+        "src": "assets/closing.jpg",
+        "ok": true,
+        "width": 340,
+        "height": 260
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "Hedley\nLANDSCAPE GARDENER & BUILDER",
+        "href": "#hero"
+      },
+      {
+        "text": "Services",
+        "href": "#services"
+      },
+      {
+        "text": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "text": "Get in touch",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your project\n↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "Talk about your patio ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your driveway ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Plan your boundaries ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Ask about garden upkeep ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Read reviews on Derbyshire\nTrusted Trader ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "View local directory details ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#hero"
+      }
+    ],
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "bodyText": "Skip to content\nHedley\nLANDSCAPE GARDENER & BUILDER\nServices\nGet in touch\n\nCHESTERFIELD · LANDSCAPING\n\nMore life.\nOutdoors.\n\nPatios, driveways and garden boundaries.\nA new beginning for your outdoor space.\n\nDiscuss your project\n↗\nG Hedley Landscape Gardener and Builder\nExplore the services ↓\n\nFROM THE PATIO TO THE GARDEN GATE\n\nA place for\neveryday living.\n\nPatios to spend time on. Driveways to come home to.Walls and fencing to bring it all together.\n\n01 / PAVING\nPatios & paths\n\nMake room for life outside. Patio, path and block paving work for the spaces around your home.\n\nPATIO PAVING · GARDEN PATHS · BLOCK PAVING\n\nTalk about your patio ↗\n02 / ARRIVAL\nDriveways\n\nA considered approach to your home. Driveway work, including resin drives and paths.\n\nDRIVEWAYS · RESIN SURFACING\n\nDiscuss your driveway ↗\n03 / BOUNDARIES\nWalls & fencing\n\nGive your garden a clear edge. Dry stone walls and fencing for the boundaries around it.\n\nDRY STONE WALLS · FENCING\n\nPlan your boundaries ↗\n\nKeeping the garden in shape.\nHedge and lawn cutting, and tree work.\n\nAsk about garden upkeep ↗\n\nCUSTOMER EXPERIENCES\n\nThe details\npeople remember.\nRead reviews on Derbyshire\nTrusted Trader ↗\n\nPATIO REPLACEMENT\n\nCare beyond the paving.\n“All debris was removed and the area kept clean daily.”\n\nThe patio customer also highlighted clear updates as the work progressed.\n\n13 August 2026\n\nDRIVEWAY\n\nAttention to the finish.\n\nThe reviewer was pleased with the new drive’s appearance and the care taken over the details.\n\n6 July 2026\n\nGARDEN TRANSFORMATION\n\nIdeas listened to.\n\nThe customer valued an adaptable approach, with their ideas incorporated into the garden work.\n\n17 June 2026\n\nOne short quotation and two summaries from customer feedback on Derbyshire County Council’s Trusted Trader directory.\n\nBASED IN BOYTHORPE, CHESTERFIELD\n\nWhat have\nyou got in mind?\n\nStart with the part of your garden you’d like to change. Tell Hedley what you have in mind and your postcode.\n\n01\nYour project\n02\nYour postcode\nCALL HEDLEY\n07891 873820\n↗\nLANDLINE\n01246 230493\n↗\nEMAIL\[REDACTED_EMAIL]\n↗\nView local directory details ↗\nG Hedley Landscape Gardener and Builder\nIndependent concept preview\nBack to top ↑",
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.578125
+    },
+    "back": "#hero",
+    "errors": []
+  },
+  {
+    "name": "small-mobile",
+    "width": 360,
+    "height": 780,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.jpg",
+        "ok": true,
+        "width": 336,
+        "height": 620
+      },
+      {
+        "src": "assets/council-garden.jpg",
+        "ok": true,
+        "width": 310,
+        "height": 147
+      },
+      {
+        "src": "assets/drive.jpg",
+        "ok": true,
+        "width": 310,
+        "height": 188
+      },
+      {
+        "src": "assets/boundary.jpg",
+        "ok": true,
+        "width": 310,
+        "height": 188
+      },
+      {
+        "src": "assets/closing.jpg",
+        "ok": true,
+        "width": 310,
+        "height": 260
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "Hedley\nLANDSCAPE GARDENER & BUILDER",
+        "href": "#hero"
+      },
+      {
+        "text": "Services",
+        "href": "#services"
+      },
+      {
+        "text": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "text": "Get in touch",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your project\n↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "Talk about your patio ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Discuss your driveway ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Plan your boundaries ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Ask about garden upkeep ↗",
+        "href": "#contact"
+      },
+      {
+        "text": "Read reviews on Derbyshire\nTrusted Trader ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "View local directory details ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#hero"
+      }
+    ],
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "bodyText": "Skip to content\nHedley\nLANDSCAPE GARDENER & BUILDER\nServices\nGet in touch\n\nCHESTERFIELD · LANDSCAPING\n\nMore life.\nOutdoors.\n\nPatios, driveways and garden boundaries.\nA new beginning for your outdoor space.\n\nDiscuss your project\n↗\nG Hedley Landscape Gardener and Builder\nExplore the services ↓\n\nFROM THE PATIO TO THE GARDEN GATE\n\nA place for\neveryday living.\n\nPatios to spend time on. Driveways to come home to.Walls and fencing to bring it all together.\n\n01 / PAVING\nPatios & paths\n\nMake room for life outside. Patio, path and block paving work for the spaces around your home.\n\nPATIO PAVING · GARDEN PATHS · BLOCK PAVING\n\nTalk about your patio ↗\n02 / ARRIVAL\nDriveways\n\nA considered approach to your home. Driveway work, including resin drives and paths.\n\nDRIVEWAYS · RESIN SURFACING\n\nDiscuss your driveway ↗\n03 / BOUNDARIES\nWalls & fencing\n\nGive your garden a clear edge. Dry stone walls and fencing for the boundaries around it.\n\nDRY STONE WALLS · FENCING\n\nPlan your boundaries ↗\n\nKeeping the garden in shape.\nHedge and lawn cutting, and tree work.\n\nAsk about garden upkeep ↗\n\nCUSTOMER EXPERIENCES\n\nThe details\npeople remember.\nRead reviews on Derbyshire\nTrusted Trader ↗\n\nPATIO REPLACEMENT\n\nCare beyond the paving.\n“All debris was removed and the area kept clean daily.”\n\nThe patio customer also highlighted clear updates as the work progressed.\n\n13 August 2026\n\nDRIVEWAY\n\nAttention to the finish.\n\nThe reviewer was pleased with the new drive’s appearance and the care taken over the details.\n\n6 July 2026\n\nGARDEN TRANSFORMATION\n\nIdeas listened to.\n\nThe customer valued an adaptable approach, with their ideas incorporated into the garden work.\n\n17 June 2026\n\nOne short quotation and two summaries from customer feedback on Derbyshire County Council’s Trusted Trader directory.\n\nBASED IN BOYTHORPE, CHESTERFIELD\n\nWhat have\nyou got in mind?\n\nStart with the part of your garden you’d like to change. Tell Hedley what you have in mind and your postcode.\n\n01\nYour project\n02\nYour postcode\nCALL HEDLEY\n07891 873820\n↗\nLANDLINE\n01246 230493\n↗\nEMAIL\[REDACTED_EMAIL]\n↗\nView local directory details ↗\nG Hedley Landscape Gardener and Builder\nIndependent concept preview\nBack to top ↑",
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.546875
+    },
+    "back": "#hero",
+    "errors": []
+  }
+]

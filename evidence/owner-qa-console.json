@@ -1,0 +1,130 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.796875
+    },
+    "back": "#hero",
+    "errors": [],
+    "imagesOK": true,
+    "phoneLinks": [
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.578125
+    },
+    "back": "#hero",
+    "errors": [],
+    "imagesOK": true,
+    "phoneLinks": [
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      }
+    ]
+  },
+  {
+    "name": "mobile-dark",
+    "width": 390,
+    "height": 844,
+    "colorScheme": "dark",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.578125
+    },
+    "back": "#hero",
+    "errors": [],
+    "imagesOK": true,
+    "phoneLinks": [
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      }
+    ]
+  },
+  {
+    "name": "small-mobile",
+    "width": 360,
+    "height": 780,
+    "colorScheme": "light",
+    "noJS": true,
+    "reducedMotion": true,
+    "overflow": false,
+    "h1": "More life.\nOutdoors.",
+    "internalText": false,
+    "anchor": {
+      "hash": "#contact",
+      "contactTop": 23.546875
+    },
+    "back": "#hero",
+    "errors": [],
+    "imagesOK": true,
+    "phoneLinks": [
+      {
+        "text": "07891 873820\n↗",
+        "href": "tel:+447891873820"
+      },
+      {
+        "text": "01246 230493\n↗",
+        "href": "tel:+441246230493"
+      },
+      {
+        "text": "[REDACTED_EMAIL]\n↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      }
+    ]
+  }
+]
